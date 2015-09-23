@@ -1,0 +1,2 @@
+# XBSettingController
+简单配置即可快速搭建类个人中心及应用设置界面
